@@ -1,5 +1,5 @@
 
-import Dashboard from "./PAGES/Dashboard";
+import Dashboard from "./pages/Dashboard";
 import "./App.css";
 
 function App() {
@@ -7,3 +7,4 @@ function App() {
 }
 
 export default App;
+
