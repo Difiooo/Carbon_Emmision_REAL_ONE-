@@ -1,0 +1,47 @@
+[
+  {
+    "id": 5,
+    "category": "food",
+    "type": "vegetarian",
+    "quantity": 5,
+    "emission": 7.5,
+    "date": "4/10/2026",
+    "day": "Sun"
+  },
+  {
+    "id": 4,
+    "category": "energy",
+    "type": "electricity",
+    "quantity": 20,
+    "emission": 14,
+    "date": "4/10/2026",
+    "day": "Sun"
+  },
+  {
+    "id": 3,
+    "category": "food",
+    "type": "meat",
+    "quantity": 2,
+    "emission": 6,
+    "date": "4/10/2026",
+    "day": "Sun"
+  },
+  {
+    "id": 2,
+    "category": "transport",
+    "type": "bus",
+    "quantity": 25,
+    "emission": 2,
+    "date": "4/10/2026",
+    "day": "Sun"
+  },
+  {
+    "id": 1,
+    "category": "energy",
+    "type": "electricity",
+    "quantity": 10,
+    "emission": 7,
+    "date": "4/10/2026",
+    "day": "Sun"
+  }
+]

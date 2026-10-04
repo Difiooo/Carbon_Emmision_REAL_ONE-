@@ -1,0 +1,10 @@
+{
+  "name": "carbon-emission-dashboard",
+  "private": true,
+  "workspaces": ["ecotrack", "server"],
+  "scripts": {
+    "dev": "npm run dev --workspace=ecotrack",
+    "start": "npm start --workspace=server",
+    "build": "npm run build --workspace=ecotrack"
+  }
+}

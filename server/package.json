@@ -1,0 +1,9 @@
+{
+  "name": "server",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Carbon emissions API using Node.js built-in HTTP and JSON storage",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "type": "commonjs"
+}
