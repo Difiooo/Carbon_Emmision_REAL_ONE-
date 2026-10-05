@@ -51,7 +51,7 @@ import "./Dashboard.css";
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, ArcElement, Tooltip);
 
-const API_BASE_URL = (import.meta.env.VITE_API_URL || "http://localhost:5000").replace(/\/+$/, "");
+const API_BASE_URL = "https://carbon-emmision-real-one.onrender.com";
 const API_URL = `${API_BASE_URL}/api/activities`;
 
 /* ------------------------------------------------------------------ */
